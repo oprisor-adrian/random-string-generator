@@ -3,7 +3,7 @@
 <img src="https://i.postimg.cc/XNDdMCcQ/documentation-icon.png" width="90">
 <h3>RANDOM - STRING - GENERATOR</h3>
 <p>[ c++ implementation using TinyMT32 algorithm ]</p>
-<a href=""><i>Read more about TinyMT32 PRNG</i></a>
+<a href="https://www.rfc-editor.org/rfc/rfc8682.pdf" targer="_blank"><i>Read more about TinyMT32 PRNG</i></a>
 <br><br>
 </div>
 
