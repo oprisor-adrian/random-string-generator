@@ -30,7 +30,7 @@
 ---
 <br>
 
-| No. of strings | No. of charactres | Run time |
+| No. of strings | No. of characters | Run time |
 | :------------: | :---------------: | :------: |
 | 1              | 100               | ~31 microseconds |
 | 1              | 100.000           | ~15.000 microseconds |
